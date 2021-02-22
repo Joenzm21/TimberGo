@@ -1,7 +1,7 @@
 package main
 
 import (
-	"TimberGO/src"
+	"TimberGo/src"
 	"github.com/hajimehoshi/ebiten/v2"
 	"log"
 )

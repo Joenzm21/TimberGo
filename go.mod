@@ -1,4 +1,4 @@
-module TimberGO
+module TimberGo
 
 go 1.16
 

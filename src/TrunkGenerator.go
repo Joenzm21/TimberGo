@@ -1,7 +1,7 @@
 package src
 
 import (
-	"TimberGO/assets"
+	"TimberGo/assets"
 	"math/rand"
 	"time"
 )
